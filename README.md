@@ -75,6 +75,22 @@ git checkout ＜branchname＞
 
 git push origin <branch-name>
 --- push the changes to a particular branch alone.
+```
+
+- To pull all the recent changes
+
+```
+git pull origin master
+--- to pull all changes from master branch.
+
+git pull origin <branch-name>
+--- to pull all changes from a particular branch.
+```
+
+
+
+
+
 
 
 

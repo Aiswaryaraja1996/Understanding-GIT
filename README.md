@@ -87,6 +87,17 @@ git pull origin <branch-name>
 --- to pull all changes from a particular branch.
 ```
 
+- To merge the changes from a branch into main branch
+```
+git checkout main 
+--- to checkout the main branch.
+
+git merge <branch-name>
+--- this will merge the branch into the main branch.
+
+```
+
+
 
 
 

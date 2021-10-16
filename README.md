@@ -73,6 +73,9 @@ git branch <branch-name>
 git checkout ＜branchname＞
 --- git checkout command lets you navigate between the branches created by git branch.
 
+git push origin <branch-name>
+--- push the changes to a particular branch alone.
+
 
 
 
